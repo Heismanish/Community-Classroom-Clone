@@ -202,6 +202,7 @@
     letter-spacing: 0.5px;
     
     line-height: 1.45;
+    padding: 0rem 15%rem;
 }
 
 .about-img-one{
@@ -212,7 +213,7 @@
     grid-column: 2/3;
     justify-self: center ;
     margin-right: 6.4rem;
-    padding: 0rem 12.8rem;
+   
 }
 
 
@@ -230,7 +231,7 @@
 .about-content-two{
     grid-row: 1/2;
     justify-self: self-end;
-    padding: 0rem 12.8rem;
+    /* padding: 0rem 12.8rem; */
     justify-self:center;
 }
 
@@ -240,22 +241,22 @@
     grid-column: 1/2;
 }
 
-.about-content-three{
+.about-content-one{
     grid-column: 2/3;
     justify-self: center ;
     margin-right: 6.4rem;
-    padding: 0rem 12.8rem;
+    /* padding: 0rem 12.8rem; */
 }
 
 /* 4. MENTORSHIP */
-.about-img-four{
+.about-img-two{
     grid-column: 2/3;
 }
 
-.about-content-four{
+.about-content-two{
     grid-row: 1/2;
     justify-self: self-end;
-    padding: 0rem 12.8rem;
+    /* padding: 0rem 12.8rem; */
     justify-self:center;
 }
 
@@ -276,7 +277,7 @@
 }
 
 .container-article{
-    align-self: baseline;
+    /* align-self: baseline; */
     line-height: 1.45;
 }
 
@@ -286,7 +287,6 @@
     font-weight: 800;
     line-height: 1;
     padding-bottom:5% ;
-    
 }
 .container-para{
     font-size: 2rem;
@@ -313,21 +313,18 @@
 .blog{
     margin-bottom: 15rem;
 }
-.about-img-six{
+.about-img-two{
     grid-column: 2/3;
 }
 
-.about-content-six{
+.about-content-two{
     grid-row: 1/2;
     justify-self: self-end;
-    padding: 0rem 12.8rem;
+    /* padding: 0rem 12.8rem; */
     justify-self:center;
 }
 
 /* 7. Founder */
-.founder{
-
-}
 .founder-para{
     font-size: 1.8rem;
     line-height: 1.5;
@@ -342,7 +339,7 @@
     grid-column: 2/3;
     justify-self: center ;
     margin-right: 6.4rem;
-    padding: 0rem 7.6rem;
+    /* padding: 0rem 7.6rem; */
 }
 
 .founder-head{
